@@ -1,6 +1,6 @@
 {
   "name": "prev-export-console",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Esta es una aplicacion para ejecutar antes de exportar un proyecto ya que esta elimina comentarios y ofusca codigo, muy util para aplicaciones estaticas que tengan contacto directo con el usuraio final",
   "main": "bin/main.js",
   "scripts": {},
