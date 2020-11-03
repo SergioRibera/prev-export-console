@@ -3,10 +3,15 @@
   "version": "1.0.1",
   "description": "Esta es una aplicacion para ejecutar antes de exportar un proyecto ya que esta elimina comentarios y ofusca codigo, muy util para aplicaciones estaticas que tengan contacto directo con el usuraio final",
   "main": "bin/main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "author": {
+    "name": "SergioRibera",
+    "email": "contact@sergioribera.com",
+    "url": "http://sergioribera.com"
   },
-  "author": "SergioRibera",
+  "repository": {
+      "url": "https://github.com/SergioRibera/prev-export-console"
+  },
   "license": "ISC",
   "dependencies": {
     "kc-rmcomm": "^1.0.4",
