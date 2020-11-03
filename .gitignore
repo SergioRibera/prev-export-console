@@ -1,5 +1,2 @@
-bin/*
 node_modules/*
 genfile.sh
-package-lock.json
-package.json
