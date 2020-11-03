@@ -10,14 +10,12 @@
     "url": "http://sergioribera.com"
   },
   "repository": {
-      "url": "https://github.com/SergioRibera/prev-export-console"
+    "url": "https://github.com/SergioRibera/prev-export-console"
   },
   "license": "ISC",
   "dependencies": {
     "kc-rmcomm": "^1.0.4",
-    "yargs": "^16.0.3"
-  },
-  "devDependencies": {
+    "yargs": "^16.0.3",
     "javascript-obfuscator": "^2.1.0"
   },
   "bin": {
